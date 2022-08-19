@@ -1,0 +1,159 @@
+body{
+    background: linear-gradient(to right, gray, orange);
+    overflow: hidden;
+}
+
+
+
+.box textarea{
+    color: green;
+    background-color: black;
+    position:absolute;
+    height: 400px;
+    width: 97%;
+    left: 10px;
+    top: 230px;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+
+
+
+.blue button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: blue;
+    left: 50px;
+}
+
+.blue :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+
+.orange button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: orange;
+    left: 50px;
+    top: 80px;
+}
+
+.orange :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+.black button{  
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: black;
+    left: 50px;
+    top: 160px;
+    border-color: white;
+}
+
+.black :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+
+.white button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: white;
+    left: 130px;
+}
+
+.white :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+.red button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: red;
+    left: 130px;
+    top: 80px;
+}
+
+
+.red :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+
+
+.yellow button{  
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: yellow;
+    left: 130px;
+    top: 160px;
+    
+}
+
+.yellow :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+
+.pink button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: pink;
+    left: 210px;
+}
+
+.pink :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
+
+.purple button{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border-width: 2px;
+    background-color: purple;
+    left: 210px;
+    top: 80px;
+}
+
+
+.purple :hover{
+    cursor: pointer;
+    border-color: yellow;
+}
+
